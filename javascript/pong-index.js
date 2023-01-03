@@ -37,7 +37,7 @@ import {
 } from "./pong-events.js";
 //Utility functions
 import { clamp, scalerange, randomAdjust, boo1ToOnOff } from "./pong-util.js";
-//import * as Tone from "../lib/Tone.js";
+//import * as Tone from "./Tone.js";
 
 //GAME OBJECTS///DON'T CHANGE THESE
 var updateInterval = 15; //game framerate
